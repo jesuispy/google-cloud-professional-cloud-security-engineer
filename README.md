@@ -2,6 +2,8 @@
 
 ### Hello this is my blazing hot Prep Sheet for the Google Cloud Professional Cloud Security Engineer Exam :boom:
 
+![GCP Sec](images/GCpsec.png)
+
 
 How do I know it's blazing hot? Well it's help a few people well successfully pass the exam, and they were nice enough to give me a shout out on Linkedin. Woopie :clap:
 
