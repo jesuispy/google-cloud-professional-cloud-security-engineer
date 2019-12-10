@@ -1,4 +1,4 @@
-# Google-Cloud-Professional-Cloud-Security-Engineer
+# Google Cloud Professional Cloud Security Engineer
 
 ### Hello this is my blazing hot Prep Sheet for the Google Cloud Professional Cloud Security Engineer Exam :boom:
 
